@@ -18,6 +18,14 @@ Data visualization (Salary vs. Years of Experience)
 
 Train-test split
 
+📊 Results
+
+Scatter plot of Years of Experience vs. Salary
+
+Best fit regression line plotted over data
+
+Evaluation metrics showing how well the model performs
+
 Linear Regression model training (using scikit-learn)
 
 Model evaluation (R² score, Mean Squared Error, etc.)
